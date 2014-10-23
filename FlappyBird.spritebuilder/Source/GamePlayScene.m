@@ -4,6 +4,8 @@
 
 @implementation GamePlayScene
 
+timeSinceObstacle = 0.0f;
+float timeSinceObstacle;
 - (void)initialize
 {
     // your code here
